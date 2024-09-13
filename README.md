@@ -1,4 +1,14 @@
 
+## Requirements
+
+- Python 3.x
+- `termcolor` package (for colored output)
+
+You can install the required package with:
+```bash
+pip install termcolor
+````
+
 ## Usage
 
 The script requires administrator privileges since it interacts with the system's network configuration. Make sure to run it as root or use `sudo`.
